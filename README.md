@@ -1,7 +1,5 @@
 # Gen_ai_citation_fetcher
 
-Here's a Python README file for your code:
-
 ---
 
 # Citation Fetcher
@@ -19,7 +17,7 @@ This Python program fetches citations from a specified API endpoint, identifies 
 1. Clone this repository to your local machine:
 
 ```
-git clone <repository-url>
+git clone: https://github.com/DavidChance27/Gen_ai_citation_fetcher/tree/main
 ```
 
 2. Install the required dependencies:
