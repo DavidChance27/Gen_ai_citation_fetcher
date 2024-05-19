@@ -14,16 +14,16 @@ This Python program fetches citations from a specified API endpoint, identifies 
 1. Clone this repository to your local machine:
 
 ```
-git clone <repository-url>
+git clone: https://github.com/DavidChance27/Gen_ai_citation_fetcher/tree/main
 ```
 
-1. Install the required dependencies:
+2. Install the required dependencies:
 
 ```
 pip install -r requirements.txt
 ```
 
-1. Open the `config.py` file and set the following constants:
+3. Open the `config.py` file and set the following constants:
 
 - `THRESHOLD`: The similarity threshold for considering citations as a match.
 - `WEB_PAGES`: The number of pages to fetch data from the API.
